@@ -1,3 +1,3 @@
 # Financial-model
-Financial ratios, valuation, models
-Relative valuation automation
+Financial ratios, valuation, models,
+relative valuation automation
